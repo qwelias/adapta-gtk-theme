@@ -1,0 +1,1 @@
+./autogen.sh --prefix=/usr --enable-parallel --disable-cinnamon --disable-flashback --disable-xfce --disable-mate --disable-openbox --with-selection_color="#8BC34A" --with-accent_color="#DCE775" --with-suggestion_color="#CDDC39"
